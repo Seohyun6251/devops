@@ -1,6 +1,6 @@
 # 9주차
 
-## kubectl 
+## 쿠버네티스 
 
 클러스터에게 말을 거는 도구
 
@@ -34,3 +34,10 @@
 
 - kubectl
 클러스터에 명령을 보내는 도구
+
+##참고자료
+![pods](./img/pods-w.png)
+
+![nodes](./img/nodes.png)
+
+![방명록](./img/방명록.png)
