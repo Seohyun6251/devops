@@ -36,6 +36,7 @@
 클러스터에 명령을 보내는 도구
 
 ##참고자료
+#
 ![pods](./img/pods-w.png)
 
 ![nodes](./img/nodes.png)
